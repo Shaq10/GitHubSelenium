@@ -1,6 +1,8 @@
 # GitHubSelenium
 This mini project is a web testing framework for the GitHub website. I used a Page Object Model design pattern in order to set it up. As it was only a mini project, I didn't delve deep into the various actions which can be carried out on the GitHub website. Instead, I focused on the log in and sign up pages which is an area where all current and potential users would come across at least once
 
+![image](https://github.com/Shaq10/GitHubSelenium/blob/main/setup.png)
+
 ## Selenium
 Selenium Driver was used to automate the browser. Each UI element on a page is located and set as a property. Methods were then created to interact with these properties for testing purposes
 
